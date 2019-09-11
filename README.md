@@ -15,3 +15,7 @@ https://github.com/google/dopamine/blob/master/dopamine/colab/README.md
 https://github.com/yfletberliac/
 
 https://colab.research.google.com/github/Hvass-Labs/TensorFlow-Tutorials/blob/master/16_Reinforcement_Learning.ipynb
+
+https://star-ai.github.io/Rendering-OpenAi-Gym-in-Colaboratory/
+
+https://elynncc.github.io/Collection-of-My-CoLab-Notebooks/#
