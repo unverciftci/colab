@@ -23,3 +23,11 @@ https://elynncc.github.io/Collection-of-My-CoLab-Notebooks/#
 privacy
 
 https://drive.google.com/file/d/1mR5DcND9JCxqr1rXsavVYKzFQq4gOI5-/view
+
+general
+
+https://github.com/zaidalyafeai/Notebooks
+
+language model
+
+https://colab.research.google.com/drive/1esbpDOorf7DQJV8GXWON24c-EQrSKOit
